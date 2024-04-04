@@ -45,20 +45,6 @@ Java, Spring Boot, Spring Data JPA, Spring Security, Gradle, MySQL, AWS(EC2, RDS
 </p>
 
  <br>
- <br>
- <br>
- 
- ## ⚙️ 담당 파트
- 
- |프론트 담당파트|백엔드 담당파트|
- |---|---|
- |![프론트](https://github.com/codestates-seb/seb44_main_005/assets/106866926/ec1d30c8-a5d0-403a-aa13-0cea83c96701)|![백엔드](https://github.com/codestates-seb/seb44_main_005/assets/106866926/232f70d0-e3dd-4260-8563-45dc75fcb710)|
-
- <br>
- <br>
- <br>
-
- 
 
 ## 📂 Documents
 ### 1. 사용자 요구사항 정의서   [🔗 Link](https://www.notion.so/codestates/db6bf9c5921a4e3ca9ac1c50ada9b733?v=7cf202032177497ab5ca9f8a40470389&pvs=4)
@@ -87,4 +73,18 @@ Java, Spring Boot, Spring Data JPA, Spring Security, Gradle, MySQL, AWS(EC2, RDS
 |---|---|---|---|---|
 |[김태우](https://github.com/TaeWooKim-SCH)|[김민지](https://github.com/kminvita)|[현채은](https://github.com/chen4023)|[강동우](https://github.com/developer-DongWoo)|[신이수](https://github.com/isu-nice)|
 |FE 팀장|FE 팀원|FE 팀원|BE 부팀장|BE 팀원|
+
+ <br>
+
+ ## ⚙️ 담당 파트
+ 
+ |프론트 담당파트|백엔드 담당파트|
+ |---|---|
+ |![프론트](https://github.com/codestates-seb/seb44_main_005/assets/106866926/ec1d30c8-a5d0-403a-aa13-0cea83c96701)|![백엔드](https://github.com/codestates-seb/seb44_main_005/assets/106866926/232f70d0-e3dd-4260-8563-45dc75fcb710)|
+
+ <br>
+ <br>
+
+
+ 
 
