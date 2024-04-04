@@ -50,7 +50,6 @@ Java, Spring Boot, Spring Data JPA, Spring Security, Gradle, MySQL, AWS(EC2, RDS
 ### 1. 사용자 요구사항 정의서   [🔗 Link](https://www.notion.so/codestates/db6bf9c5921a4e3ca9ac1c50ada9b733?v=7cf202032177497ab5ca9f8a40470389&pvs=4)
 ### 2. API 명세서   [🔗 Link](https://www.notion.so/codestates/API-19b0436b7f1347bfbc37113fe4abcfdf?pvs=4)
 ### 3. ERD
-<hr>
   <img src="https://github.com/isu-nice/ActiOn-Deploy/assets/111070569/fae93224-6ad7-4532-9803-214f93133810">
 
 ### 4. Git 컨벤션 [🔗 Link](https://rift-tie-a90.notion.site/Git-416e1402a0f14ab1a50453f1a8074454?pvs=4)
