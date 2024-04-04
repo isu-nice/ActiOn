@@ -36,7 +36,6 @@
 
 
 ## 🛠️ Stack
---- 
 Java, Spring Boot, Spring Data JPA, Spring Security, Gradle, MySQL, AWS(EC2, RDS, S3), Redis
 
 <p align="center">
@@ -68,9 +67,8 @@ Java, Spring Boot, Spring Data JPA, Spring Security, Gradle, MySQL, AWS(EC2, RDS
 <hr>
   <img src="https://github.com/isu-nice/ActiOn-Deploy/assets/111070569/fae93224-6ad7-4532-9803-214f93133810">
 
-<br>
-
-### 4. 화면 정의서 [🔗 Link](https://www.figma.com/file/1vjGhkjq29PfthTwTSINtA/ActiOn---Design?type=design&node-id=0-1&mode=design)
+### 4. Git 컨벤션 [🔗 Link](https://rift-tie-a90.notion.site/Git-416e1402a0f14ab1a50453f1a8074454?pvs=4)
+### 5. 화면 정의서 [🔗 Link](https://www.figma.com/file/1vjGhkjq29PfthTwTSINtA/ActiOn---Design?type=design&node-id=0-1&mode=design)
 
 - 상품 상세 페이지(미리보기)
 
@@ -80,10 +78,6 @@ Java, Spring Boot, Spring Data JPA, Spring Security, Gradle, MySQL, AWS(EC2, RDS
 
   <img src="https://github.com/isu-nice/ActiOn-Deploy/assets/111070569/8f594c97-22e9-4226-b60c-7fc546ca5ca6">
 
-
-
-
-### 5. Git 컨벤션 [🔗 Link](https://rift-tie-a90.notion.site/Git-416e1402a0f14ab1a50453f1a8074454?pvs=4)
 
 
 <br>
