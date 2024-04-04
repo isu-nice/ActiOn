@@ -24,13 +24,13 @@
 </p>
 
 <br>
-<img width="1400" alt="기능소개1" src="https://github.com/isu-nice/ActiOn-Deploy/assets/111070569/6b639110-e561-43ee-b2f2-1f7a4252def6">
+<img width="1350" alt="기능소개1" src="https://github.com/isu-nice/ActiOn-Deploy/assets/111070569/6b639110-e561-43ee-b2f2-1f7a4252def6">
 
-<img width="1400" alt="기능소개2" src="https://github.com/isu-nice/ActiOn-Deploy/assets/111070569/6a8229eb-dcee-49f2-9507-ee2979662814">
+<img width="1350" alt="기능소개2" src="https://github.com/isu-nice/ActiOn-Deploy/assets/111070569/6a8229eb-dcee-49f2-9507-ee2979662814">
 
-<img width="1400" alt="기능소개3" src="https://github.com/isu-nice/ActiOn-Deploy/assets/111070569/07ee3ec1-be3e-4641-9a40-7f211eecbff1">
+<img width="1350" alt="기능소개3" src="https://github.com/isu-nice/ActiOn-Deploy/assets/111070569/07ee3ec1-be3e-4641-9a40-7f211eecbff1">
 
-<img width="1400" alt="기능소개4" src="https://github.com/isu-nice/ActiOn-Deploy/assets/111070569/78ab6792-61ca-42c6-b5bb-77783876b9e4">
+<img width="1350" alt="기능소개4" src="https://github.com/isu-nice/ActiOn-Deploy/assets/111070569/78ab6792-61ca-42c6-b5bb-77783876b9e4">
 
  <br>
  <br>
@@ -51,7 +51,7 @@ Java, Spring Boot, Spring Data JPA, Spring Security, Gradle, MySQL, AWS(EC2, RDS
 ### 1. 사용자 요구사항 정의서   [🔗 Link](https://www.notion.so/codestates/db6bf9c5921a4e3ca9ac1c50ada9b733?v=7cf202032177497ab5ca9f8a40470389&pvs=4)
 ### 2. API 명세서   [🔗 Link](https://www.notion.so/codestates/API-19b0436b7f1347bfbc37113fe4abcfdf?pvs=4)
 ### 3. ERD
-  <img src="https://github.com/isu-nice/ActiOn-Deploy/assets/111070569/fae93224-6ad7-4532-9803-214f93133810">
+  <img width="1000" src="https://github.com/isu-nice/ActiOn-Deploy/assets/111070569/fae93224-6ad7-4532-9803-214f93133810">
 
 ### 4. Git 컨벤션 [🔗 Link](https://rift-tie-a90.notion.site/Git-416e1402a0f14ab1a50453f1a8074454?pvs=4)
 ### 5. 화면 정의서 [🔗 Link](https://www.figma.com/file/1vjGhkjq29PfthTwTSINtA/ActiOn---Design?type=design&node-id=0-1&mode=design)
