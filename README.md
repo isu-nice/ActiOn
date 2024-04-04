@@ -1,5 +1,5 @@
 # 🐋 액티온(ActiOn)
-### 제주도에서 특별한 경험을 만들고 싶으신 분들에게 다양한 레저 예약 서비스를 제공해드립니다!
+### 제주도에서 특별한 경험을 만들고 싶으신 분들에게 다양한 레저 예약 서비스를 제공해드립니다
 <p align="center">
 <img width="500" alt="무제" src="https://github.com/codestates-seb/seb44_main_005/assets/106866926/4cc87719-f666-42f6-ac89-321b5da06c77">
 
@@ -8,19 +8,7 @@
 
 ### 🏖️ 개발 기간: [![Since](https://img.shields.io/badge/since-2023.07.06-D1B6E1.svg?&edge_flat=false)](https://github.com/codestates-seb/seb44_main_005) ~ [![End](https://img.shields.io/badge/end-2023.07.24-D1B6E1.svg?&edge_flat=false)](https://github.com/codestates-seb/seb44_main_005)
 
-### 🏝️ 배포 링크 : [Acti-On](http://ac-ti-on.s3-website.ap-northeast-2.amazonaws.com/)
-
-
-<br>
-
-## 👥 팀원 소개
-|![김태우](https://github.com/TaeWooKim-SCH.png)|![김민지](https://github.com/kminvita.png)|![현채은](https://github.com/chen4023.png)|![강동우](https://github.com/developer-DongWoo.png)|![신이수](https://github.com/isu-nice.png)|
-|---|---|---|---|---|
-|[김태우](https://github.com/TaeWooKim-SCH)|[김민지](https://github.com/kminvita)|[현채은](https://github.com/chen4023)|[강동우](https://github.com/developer-DongWoo)|[신이수](https://github.com/isu-nice)|
-|FE 팀장|FE 팀원|FE 팀원|BE 부팀장|BE 팀원|
-
-<br>
-
+### 🏝️ 배포 링크 : [Acti-On](http://ac-ti-on.s3-website.ap-northeast-2.amazonaws.com/) (현재는 서버 가동 중지 상태입니다)
 
 
 ## 🐋 프로젝트 개요
@@ -96,3 +84,13 @@ Java, Spring Boot, Spring Data JPA, Spring Security, Gradle, MySQL, AWS(EC2, RDS
 
 
 ### 5. Git 컨벤션 [🔗 Link](https://rift-tie-a90.notion.site/Git-416e1402a0f14ab1a50453f1a8074454?pvs=4)
+
+
+<br>
+
+## 👥 팀원 소개
+|![김태우](https://github.com/TaeWooKim-SCH.png)|![김민지](https://github.com/kminvita.png)|![현채은](https://github.com/chen4023.png)|![강동우](https://github.com/developer-DongWoo.png)|![신이수](https://github.com/isu-nice.png)|
+|---|---|---|---|---|
+|[김태우](https://github.com/TaeWooKim-SCH)|[김민지](https://github.com/kminvita)|[현채은](https://github.com/chen4023)|[강동우](https://github.com/developer-DongWoo)|[신이수](https://github.com/isu-nice)|
+|FE 팀장|FE 팀원|FE 팀원|BE 부팀장|BE 팀원|
+
