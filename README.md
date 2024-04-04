@@ -24,20 +24,14 @@
 </p>
 
 <br>
-<img width="1440" alt="기능소개1" src="https://github.com/isu-nice/ActiOn-Deploy/assets/111070569/6b639110-e561-43ee-b2f2-1f7a4252def6">
+<img width="1400" alt="기능소개1" src="https://github.com/isu-nice/ActiOn-Deploy/assets/111070569/6b639110-e561-43ee-b2f2-1f7a4252def6">
 
-<img width="1440" alt="기능소개2" src="https://github.com/isu-nice/ActiOn-Deploy/assets/111070569/6a8229eb-dcee-49f2-9507-ee2979662814">
+<img width="1400" alt="기능소개2" src="https://github.com/isu-nice/ActiOn-Deploy/assets/111070569/6a8229eb-dcee-49f2-9507-ee2979662814">
 
-<img width="1440" alt="기능소개3" src="https://github.com/isu-nice/ActiOn-Deploy/assets/111070569/07ee3ec1-be3e-4641-9a40-7f211eecbff1">
+<img width="1400" alt="기능소개3" src="https://github.com/isu-nice/ActiOn-Deploy/assets/111070569/07ee3ec1-be3e-4641-9a40-7f211eecbff1">
 
- <img width="1440" alt="기능소개4" src="https://github.com/isu-nice/ActiOn-Deploy/assets/111070569/78ab6792-61ca-42c6-b5bb-77783876b9e4">
+<img width="1400" alt="기능소개4" src="https://github.com/isu-nice/ActiOn-Deploy/assets/111070569/78ab6792-61ca-42c6-b5bb-77783876b9e4">
 
-
- |![기능1](https://github.com/codestates-seb/seb44_main_005/assets/106866926/d95f4411-b1ba-4bea-9f8b-d5667eba1c30)|![기능2](https://github.com/codestates-seb/seb44_main_005/assets/106866926/c54ff1bf-ea0a-467c-8d4e-a4ce2fbcbce0)|
-  |---|---|
- |![기능3](https://github.com/codestates-seb/seb44_main_005/assets/106866926/c6e377af-f7b8-49cc-bd4f-b680512ce913)|![기능4](https://github.com/codestates-seb/seb44_main_005/assets/106866926/6d5a652d-d54c-4743-9e25-96e2f7156f96)|
-
- <br>
  <br>
  <br>
 
